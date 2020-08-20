@@ -1,2 +1,2 @@
 # hello-world
-this is my fiers registry.
+这是我的注册表。我希望可以支持中文。
